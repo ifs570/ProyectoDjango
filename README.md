@@ -108,7 +108,7 @@ turísticos
 
 - Instalamos Python y Visual Studio Code.
 
-    - ![python](.\imgdjango\python.PNG)
+    - ![python](imgdjango\python.PNG)
 
 - Creamos una carpeta que se llamara DjangoProject la cual contendra el proyecto.
 
