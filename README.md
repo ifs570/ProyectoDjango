@@ -216,18 +216,18 @@ turísticos
     -  ![python](imgdjango/pagina1.PNG)
  
 - Commits
-    -  ![python](imgdjango/commit1.PNG)
-    -  ![python](imgdjango/commit2.PNG)
-    -  ![python](imgdjango/commit3.PNG)
-    -  ![python](imgdjango/commit4.PNG)
-    -  ![python](imgdjango/commit5.PNG)
-    -  ![python](imgdjango/commit6.PNG)
-    -  ![python](imgdjango/commit7.PNG)
-    -  ![python](imgdjango/commit8.PNG)
-    -  ![python](imgdjango/commit9.PNG)
-    -  ![python](imgdjango/commit10.PNG)
-    -  ![python](imgdjango/commit11.PNG)
-    -  ![python](imgdjango/commit12.PNG)
+    -  ![python](imgdjango/commit1.png)
+    -  ![python](imgdjango/commit2.png)
+    -  ![python](imgdjango/commit3.png)
+    -  ![python](imgdjango/commit4.png)
+    -  ![python](imgdjango/commit5.png)
+    -  ![python](imgdjango/commit6.png)
+    -  ![python](imgdjango/commit7.png)
+    -  ![python](imgdjango/commit8.png)
+    -  ![python](imgdjango/commit9.png)
+    -  ![python](imgdjango/commit10.png)
+    -  ![python](imgdjango/commit11.png)
+    -  ![python](imgdjango/commit12.png)
      
     
 #
