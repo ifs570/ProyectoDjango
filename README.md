@@ -114,106 +114,106 @@ turísticos
 
 - Instalamos el entorno virtual.
     
-    - ![python](entornovirtual.PNG)
+    - ![python](imgdjango/entornovirtual.PNG)
 
 - Creamos nuestro entorno virtual(env)
 
-    - ![python](.\imgdjango\entornovirtual1.PNG)
+    - ![python](imgdjango/entornovirtual1.PNG)
 
 - Activamos nuestro entorno virtual
 
-    - ![python](.\imgdjango\activacionenv.PNG)
+    - ![python](imgdjango/activacionenv.PNG)
 
 - Ahora abrimos esta carpeta en Visual Studio Code.
 
-    - ![python](.\imgdjango\visual.PNG)
+    - ![python](imgdjango/visual.PNG)
 
 - Ahora Instalamos Django en el entorno virtual
 
-    - ![python](.\imgdjango\djangoenv.PNG)
+    - ![python](imgdjango/djangoenv.PNG)
 
 - Verificamos que se instalo correctamente
 
-    - ![python](.\imgdjango\djangoversion1.PNG)
+    - ![python](imgdjango/djangoversion1.PNG)
   
 - Ahora empezaremos a crear nuestro primer Proyecto
 
-    - ![python](.\imgdjango\primerproyecto.PNG)
-    - ![python](.\imgdjango\mysite2.PNG)
+    - ![python](imgdjango/primerproyecto.PNG)
+    - ![python](imgdjango/mysite2.PNG)
 
 - Ejecutamos nuestro proyecto
 
-    - ![python](.\imgdjango\ejecutar.PNG)
+    - ![python](imgdjango/ejecutar.PNG)
 
 - Ahora verifiquemos si nuestro proyecto funciona
 
-    - ![python](.\imgdjango\funciona.PNG)
+    - ![python](imgdjango/funciona.PNG)
 
 - Creamos un archivo donde vamos a desarrollar la aplicación
 
-    - ![python](.\imgdjango\calc.PNG)
-    - ![python](.\imgdjango\calc1.PNG)
+    - ![python](imgdjango/calc.PNG)
+    - ![python](imgdjango/calc1.PNG)
 
 - Ahora vamos a crear un Hola Mundo.
 - Para esto primero creamos su propia urls.py
 
-    - ![python](.\imgdjango\urls1.PNG)
-    - ![python](.\imgdjango\urls2.PNG)
+    - ![python](imgdjango/urls1.PNG)
+    - ![python](imgdjango/urls2.PNG)
 
 - Dentro de views.py importamos HttpResponse y creamos la función
 
-    - ![python](.\imgdjango\views.PNG)
+    - ![python](imgdjango/views.PNG)
 
 - Dentro de la urls.py del proyecto importamos path y include
 
-    - ![python](.\imgdjango\path.PNG)
+    - ![python](imgdjango/path.PNG)
 
 - Ejecutamos el Proyecto 
 
-    - ![python](.\imgdjango\runserver.PNG)
-    - ![python](.\imgdjango\8000.PNG)
-    - ![python](.\imgdjango\holamundo1.PNG)
+    - ![python](imgdjango/runserver.PNG)
+    - ![python](imgdjango/8000.PNG)
+    - ![python](imgdjango/holamundo1.PNG)
 
 - Creamos la carpeta templates para realizar plantillas.
 
-    -  ![python](.\imgdjango\templates.PNG)
+    -  ![python](imgdjango/templates.PNG)
 
 - Importamos os en settings.py, especificamos las rutas
 
-    -  ![python](.\imgdjango\templates1.PNG)
-    -  ![python](.\imgdjango\templates2.PNG)
-    -  ![python](.\imgdjango\render.PNG)
-    -  ![python](.\imgdjango\lorem.PNG)
+    -  ![python](imgdjango/templates1.PNG)
+    -  ![python](imgdjango/templates2.PNG)
+    -  ![python](imgdjango/render.PNG)
+    -  ![python](imgdjango/lorem.PNG)
   
 - Para realizar de manera dinamica
 
-    - ![python](.\imgdjango\dinamica.PNG)
+    - ![python](imgdjango/dinamica.PNG)
 
-    - ![python](.\imgdjango\dinamica1.PNG)
+    - ![python](imgdjango/dinamica1.PNG)
   
-    - ![python](.\imgdjango\dinamica3.PNG)
+    - ![python](imgdjango/dinamica3.PNG)
 
 - Uso de los métodos GET y POST
 
-     - ![python](.\imgdjango\post1.PNG)
+     - ![python](imgdjango/post1.PNG)
 
 
-     - ![python](.\imgdjango\post.PNG)
+     - ![python](imgdjango/post.PNG)
 
 
-     - ![python](.\imgdjango\post3.PNG)
+     - ![python](imgdjango/post3.PNG)
 
-     - ![python](.\imgdjango\post4.PNG)
+     - ![python](imgdjango/post4.PNG)
 
 - Ahora usaremos una plantilla
 - En un inicio nos queda de esta manera por que aun no usamos los archivos css, js y imagenes.
 
-    -  ![python](.\imgdjango\travello.PNG)
+    -  ![python](imgdjango/travello.PNG)
 
 - Ahora la página estatica
 
-    -  ![python](.\imgdjango\pagina.PNG)
-    -  ![python](.\imgdjango\pagina1.PNG)
+    -  ![python](imgdjango/pagina.PNG)
+    -  ![python](imgdjango/pagina1.PNG)
 #
 
 ## REFERENCIAS
