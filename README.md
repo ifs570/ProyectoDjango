@@ -214,6 +214,22 @@ turísticos
 
     -  ![python](imgdjango/pagina.PNG)
     -  ![python](imgdjango/pagina1.PNG)
+ 
+- Commits
+    -  ![python](imgdjango/commit1.PNG)
+    -  ![python](imgdjango/commit2.PNG)
+    -  ![python](imgdjango/commit3.PNG)
+    -  ![python](imgdjango/commit4.PNG)
+    -  ![python](imgdjango/commit5.PNG)
+    -  ![python](imgdjango/commit6.PNG)
+    -  ![python](imgdjango/commit7.PNG)
+    -  ![python](imgdjango/commit8.PNG)
+    -  ![python](imgdjango/commit9.PNG)
+    -  ![python](imgdjango/commit10.PNG)
+    -  ![python](imgdjango/commit11.PNG)
+    -  ![python](imgdjango/commit12.PNG)
+     
+    
 #
 
 ## REFERENCIAS
